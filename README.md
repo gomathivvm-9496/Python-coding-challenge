@@ -1,14 +1,18 @@
-# Python Coding Challenge 
-## Project Overview
 
-This repository contains a collection of scenario-based Python projects designed to strengthen fundamental programming concepts. Each day focuses on a specific topic, progressing from basic variables to object-oriented programming and mini system design.
+# 🐍 Python Coding Challenges (Scenario-Based)
 
-The projects simulate real-world use cases such as student management, retail systems, banking operations, and data analysis.
-## Objectives
-- Build strong foundations in Python programming
-- Apply concepts through real-world scenarios
-- Improve problem-solving and logical thinking skills
-- Prepare for coding interviews and practical applications
+## 📌 Overview
+This repository contains Python coding challenges solved using scenario-based questions. The goal is to improve problem-solving skills and logical thinking.
+
+---
+
+## 🎯 Objectives
+- Practice Python programming
+- Solve real-world scenario-based problems
+- Improve coding and analytical skills
+
+
+
 ## Tools & Technologies
 - Python
 - Jupyter Notebook / Google Colab
